@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
