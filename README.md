@@ -30,6 +30,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -43,8 +44,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
