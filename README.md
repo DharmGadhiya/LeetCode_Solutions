@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 | ------- |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
