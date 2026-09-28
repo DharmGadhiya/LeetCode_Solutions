@@ -38,6 +38,7 @@
 | [0680-valid-palindrome-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,5 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
