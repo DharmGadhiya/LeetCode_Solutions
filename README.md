@@ -59,6 +59,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
