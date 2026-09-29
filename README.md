@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0680-valid-palindrome-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
