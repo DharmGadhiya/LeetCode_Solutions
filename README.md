@@ -9,6 +9,7 @@
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
