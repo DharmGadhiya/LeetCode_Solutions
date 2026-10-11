@@ -12,6 +12,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -127,4 +130,9 @@
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
