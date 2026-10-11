@@ -11,6 +11,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
 | ------- |
