@@ -13,6 +13,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
@@ -137,4 +138,20 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
+## Tree
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+## Depth-First Search
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+## Binary Tree
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+## DP on Trees
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
