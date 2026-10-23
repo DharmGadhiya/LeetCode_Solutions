@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0137-single-number-ii) |
@@ -121,6 +122,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0078-subsets) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Bit Manipulation
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
