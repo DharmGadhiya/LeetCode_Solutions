@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -172,15 +173,18 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bitmask
@@ -195,4 +199,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
