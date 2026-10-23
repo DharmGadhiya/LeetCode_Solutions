@@ -9,6 +9,7 @@
 | [0137-single-number-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0997-find-the-town-judge](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -71,6 +72,7 @@
 | [0141-linked-list-cycle](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0997-find-the-town-judge](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -176,6 +178,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Bitmask
 |  |
