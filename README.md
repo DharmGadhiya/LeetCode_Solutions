@@ -14,6 +14,7 @@
 | [1539-kth-missing-positive-number](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Math
 |  |
@@ -142,10 +144,12 @@
 |  |
 | ------- |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,4 +158,16 @@
 |  |
 | ------- |
 | [2049-count-nodes-with-the-highest-score](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+## Union-Find
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+## Graph Theory
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
