@@ -11,6 +11,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0997-find-the-town-judge](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -34,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Greedy
 |  |
@@ -41,6 +43,7 @@
 | [0410-split-array-largest-sum](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Prefix Sum
@@ -148,6 +151,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2402-meeting-rooms-iii](https://github.com/DharmGadhiya/LeetCode_Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
