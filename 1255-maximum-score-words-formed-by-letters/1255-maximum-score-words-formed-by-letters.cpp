@@ -1,61 +1,41 @@
+
 class Solution {
 public:
-    vector<int> total = vector<int>(26, 0);
-    int ans = 0;
-    int n;
+    int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
+        int cnt[26] = {0};
 
-    void calcScore(int i, vector<string>& words, vector<int>& score,int currScore) {
-        if (i >= n) {
+        for (char c : letters)
+            cnt[c - 'a']++;
 
-            ans = max(ans, currScore);
-            return;
-        }
-        // choice 1: SKIP the current word
-        calcScore(i + 1, words, score, currScore);
-
-        // choice 2: TAKE the current word if possible
-        string currWord = words[i];
-        vector<int> required(26, 0);
-        int wordScore = 0;
-        bool canTake = true;
-
-        // check the requirements of the current word
-        for (char c : currWord) {
-            required[c - 'a']++;
-            wordScore += score[c - 'a'];
-        }
-
-        // check whether we can fulfill these requirements
-        for (int i = 0; i < 26; i++) {
-            if (required[i] > total[i]) {
-                canTake = false;
-            }
-        }
-        // if we can, then we will take this word
-        if (canTake) {
-            for (int i = 0; i < 26; i++) {
-                total[i] -= required[i];
-            }
-            // took the word
-            calcScore(i + 1, words, score, currScore + wordScore);
-
-            // backtrack to the previous state
-            for (int j = 0; j < 26; j++) {
-                total[j] += required[j];
-            }
-        }
+        return solve(0, words, cnt, score);
     }
 
-    int maxScoreWords(vector<string>& words, vector<char>& letters,
-                      vector<int>& score) {
-        n = words.size();
-        total.assign(26, 0);
-        ans = 0;
-        for (char& c : letters) {
-            total[c - 'a']++; // this is the total cnt of chars available
+    int solve(int i, vector<string>& words, int cnt[], vector<int>& score) {
+        if (i == words.size())
+            return 0;
+
+        // Option 1: Skip this word
+        int ans = solve(i + 1, words, cnt, score);
+
+        // Option 2: Take this word, if possible
+        int val = 0;
+        bool ok = true;
+
+        for (char c : words[i]) {
+            cnt[c - 'a']--;
+            val += score[c - 'a'];
+
+            if (cnt[c - 'a'] < 0)
+                ok = false;
         }
 
-        calcScore(0, words, score, 0); // i, vec,vec, currScore
+        if (ok)
+            ans = max(ans, val + solve(i + 1, words, cnt, score));
+
+        // Restore letters for other choices
+        for (char c : words[i])
+            cnt[c - 'a']++;
+
         return ans;
     }
 };
