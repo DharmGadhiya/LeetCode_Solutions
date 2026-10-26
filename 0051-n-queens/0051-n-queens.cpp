@@ -1,45 +1,57 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
-
-    bool safe(vector<string>& board, int r, int c, int n) {
-        for (int i = 0; i < r; i++) {
-            if (board[i][c] == 'Q')
+    bool isSafe(vector<string> &board, int row, int col, int n) { //O(n)
+        //horizontal
+        for(int j=0; j<n; j++) {
+            if(board[row][j] == 'Q') {
                 return false;
+            }
+        }
 
-            if (c - (r - i) >= 0 && board[i][c - (r - i)] == 'Q')
+        //vertical
+        for(int i=0; i<n; i++) {
+            if(board[i][col] == 'Q') {
                 return false;
+            }
+        }
 
-            if (c + (r - i) < n && board[i][c + (r - i)] == 'Q')
+        //left diagonal
+        for(int i=row, j=col; i>=0 && j>=0; i--, j--) {
+            if(board[i][j] == 'Q') {
                 return false;
+            }
+        }
+
+        //right diagonal
+        for(int i=row, j=col; i>=0 && j<n; i--, j++) {
+            if(board[i][j] == 'Q') {
+                return false;
+            }
         }
 
         return true;
     }
 
-    void solve(vector<string>& board, int r, int n) {
-        if (r == n) {
-            ans.push_back(board);
+    void nQueens(vector<string> &board, int row, int n, vector<vector<string>> &ans) {
+        if(row == n) {
+            ans.push_back({board});
             return;
         }
 
-        for (int c = 0; c < n; c++) {
-            if (safe(board, r, c, n)) {
-                board[r][c] = 'Q';
-
-                solve(board, r + 1, n);
-
-                board[r][c] = '.';
+        for(int j=0; j<n; j++) {
+            if(isSafe(board, row, j, n)) {
+                board[row][j] = 'Q';
+                nQueens(board, row+1, n, ans);
+                board[row][j] = '.';
             }
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
-        ans.clear();
         vector<string> board(n, string(n, '.'));
+        vector<vector<string>> ans;
 
-        solve(board, 0, n);
-
+        nQueens(board, 0, n, ans);
         return ans;
     }
 };
